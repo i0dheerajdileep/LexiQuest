@@ -1,8 +1,8 @@
-# Nurique - Dyslexia Improvement App
+# Lexiquest - Dyslexia Improvement App
 
 ## Inspiration
 
-Our inspiration for "Nurique" stems from a deep commitment to improving the lives of individuals with dyslexia and related issues such as dementia, arthritis, and RIS. We believe in the power of multisensory games and activities and the idea that everyone should have access to personalized activities based on their current state. Our motivation comes from the challenges faced by individuals with dyslexia and memory-related difficulties, driving us to create a project that empowers them to overcome these challenges.
+Our inspiration for "Lexiquest" stems from a deep commitment to improving the lives of individuals with dyslexia and related issues such as dementia, arthritis, and RIS. We believe in the power of multisensory games and activities and the idea that everyone should have access to personalized activities based on their current state. Our motivation comes from the challenges faced by individuals with dyslexia and memory-related difficulties, driving us to create a project that empowers them to overcome these challenges.
 
 We were also inspired by research papers on multisensory learning for dyslexia ([Prayatna](https://prayatna.co.in/multisensory-learning-for-dyslexia/)), ([ResearchGate](https://www.researchgate.net/publication/221057032_Multisensory_Games_for_Dyslexic_Children)), and educational guides ([Pearson Clinical](https://www.pearsonclinical.co.uk/content/dam/school/global/clinical/uk-clinical/files/Q4_Clinical_Assets/D0069-Dyslexia-Handy-Guide-Brochure.pdf)).
 
@@ -10,17 +10,17 @@ Another source of inspiration was the realization that dyslexia is a real proble
 
 ## What it does
 
-**Nurique** is an innovative project that revolutionizes the training and assessment of dyslexic patients (dementia, RSI). It acts as a go-to platform for daily personal training.
+**Lexiquest** is an innovative project that revolutionizes the training and assessment of dyslexic patients (dementia, RSI). It acts as a go-to platform for daily personal training.
 
 This project includes assessing the user by an assessment test and grading them based on the score received: High Dyslexic, Medium Dyslexic, and Low Dyslexic. Based on the current grade, users are given a task and required to complete a specific multisensory game, which includes more than one sense, aptitude, agility, and math.
 
-Using **Nurique** and training regularly would improve and enhance the grade of the particular patient, helping them keep dyslexia under control.
+Using **Lexiquest** and training regularly would improve and enhance the grade of the particular patient, helping them keep dyslexia under control.
 
 ## How we built it
 
 ### Frontend Development:
 
-- **React Frontend:** The user interface and interactive components of "Nurique" were built using React, a popular JavaScript library for creating responsive and dynamic web applications. This choice allowed us to provide a highly interactive and user-friendly platform.
+- **React Frontend:** The user interface and interactive components of "Lexiquest" were built using React, a popular JavaScript library for creating responsive and dynamic web applications. This choice allowed us to provide a highly interactive and user-friendly platform.
 
 - **Tailwind CSS Styling:** For styling and design, we employed Tailwind CSS. Tailwind CSS's utility-first approach enabled us to efficiently style the user interface, ensuring a consistent and visually appealing look and feel.
 
@@ -30,11 +30,11 @@ Using **Nurique** and training regularly would improve and enhance the grade of 
 
 - **JavaScript Backend Logic:** Our backend logic and server-side functionality were developed using JavaScript. This includes server logic for handling user data, interactions, and game-related processes.
 
-- **Database: Firestore Database:** "Nurique" leverages Firestore, a NoSQL cloud database provided by Firebase. Firestore was used to store user profiles, progress data, and game-related information. It enables real-time data synchronization and ensures that user information is readily available and consistently updated.
+- **Database: Firestore Database:** "Lexiquest" leverages Firestore, a NoSQL cloud database provided by Firebase. Firestore was used to store user profiles, progress data, and game-related information. It enables real-time data synchronization and ensures that user information is readily available and consistently updated.
 
 ### Development Workflow:
 
-The development process for "Nurique" followed an agile methodology, allowing for ongoing iterations and improvements based on user feedback. Regular testing and quality assurance ensured that the platform met high standards of performance and reliability.
+The development process for "Lexiquest" followed an agile methodology, allowing for ongoing iterations and improvements based on user feedback. Regular testing and quality assurance ensured that the platform met high standards of performance and reliability.
 
 ## Challenges we ran into
 
@@ -60,7 +60,7 @@ The development process for "Nurique" followed an agile methodology, allowing fo
 
 - **Building a Project:** Based on a real use case.
 
-## What's next for Nurique
+## What's next for Lexiquest
 
 - **Implementing a Subscription Model:** Online Therapy Session and Community Support.
 
